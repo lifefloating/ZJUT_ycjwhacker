@@ -1,5 +1,5 @@
 # ycjw_hacker
-原创教务管理系统学生账号破解
+zjut原创教务管理系统学生账号破解
 
 python版本3.6 linux下可以用virtualenv搭环境
 
